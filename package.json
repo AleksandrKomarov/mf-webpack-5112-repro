@@ -1,0 +1,13 @@
+{
+  "name": "mf-webpack-5112-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@module-federation/enhanced": "2.9.2",
+    "webpack": "5.112.0",
+    "webpack-cli": "7.2.3"
+  }
+}
